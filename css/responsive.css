@@ -1,0 +1,95 @@
+@media screen and (max-width: 460px) {
+  header nav a {
+    position: relative;
+    left: 3%;
+    font-size: 1.1em;
+  }
+
+
+  .main1 .p2 {
+    position: relative;
+    top: 12px;
+    font-size: 1.2em;
+  }
+
+  .main1 .p3 {
+    position: relative;
+    top: 20px;
+    font-size: 1.3em;
+    
+  }
+
+  .main2 .lp {
+    position: relative;
+    top: -20px;
+  }
+
+  .main1 .dw {
+    position: relative;
+    left: 35%;
+  }
+
+}
+
+@media screen and (max-width: 360px) {
+
+  .main1 .p2 {
+    position: relative;
+    top: 12px;
+    font-size: 1em;
+  }
+
+  .main1 .p3 {
+    position: relative;
+    top: 20px;
+    font-size: 1em;
+    
+  }
+
+  .main1 .dw {
+    position: relative;
+    left: 40%;
+  }
+}
+
+@media screen and (max-width: 370px) {
+
+  .main1 .p2 {
+    position: relative;
+    top: 12px;
+    font-size: 1em;
+  }
+
+  .main1 .p3 {
+    position: relative;
+    top: 20px;
+    font-size: 1em;
+    
+  }
+
+  .main1 .dw {
+    position: relative;
+    left: 40%;
+  }
+}
+
+@media screen and (max-width: 387px) {
+
+  .main1 .p2 {
+    position: relative;
+    top: 12px;
+    font-size: 1em;
+  }
+
+  .main1 .p3 {
+    position: relative;
+    top: 20px;
+    font-size: 1em;
+    
+  }
+
+  .main1 .dw {
+    position: relative;
+    left: 40%;
+  }
+}
